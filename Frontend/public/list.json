@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Novel",
+        "title": "To Kill a Mockingbird",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Self-Help",
+        "title": "The Power of Habit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Science Fiction",
+        "title": "Dune",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Biography",
+        "title": "Steve Jobs",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": 999,
+        "category": "fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 6,
+        "name": "History",
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": 1199,
+        "category": "non-fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Mystery",
+        "title": "The Girl with the Dragon Tattoo",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Health",
+        "title": "The Whole30: The 30-Day Guide to Total Health and Food Freedom",
+        "price": 999,
+        "category": "non-fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718967261~exp=1718970861~hmac=89fa9aae6bad011f0cbb7031068dff6e01fe48f4670df17f692954e6ab1738a5&w=740"
+    }
+]
