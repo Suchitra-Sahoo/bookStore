@@ -41,36 +41,34 @@
 
 ## 🚀Getting Started
 
-### Installation
-
-1. **Clone this repository:**
+### 1.Clone this repository:
 
     ```bash
     git clone https://github.com/Suchitra-Sahoo/bookStore.git
     ```
 
-2. **Install Frontend dependencies:**
+### 2.Install Frontend dependencies:
 
     ```bash
     cd Frontend
     npm install
     ```
 
-3. **Install Backend dependencies:**
+### 3.Install Backend dependencies:
 
     ```bash
     cd Backend
     npm install
     ```
 
-4. **Running the Frontend:**
+### 4.Running the Frontend:
 
      ```bash
     cd Frontend
     npm run dev
     ```
    
-5. **Running the Backend:**
+### 5.Running the Backend:
 
     ```bash
     cd Backend
