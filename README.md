@@ -28,6 +28,8 @@
 
 </div>
 
+## 🚀Getting Started
+
 ## ✨Features
 
 - Access a wide range of books for free, covering various genres and topics. Enjoy unlimited reading without any subscription fees.
@@ -38,45 +40,43 @@
 - Enjoy a responsive and user-friendly interface that adapts to different devices and screen sizes. Access bookStore seamlessly from desktops, tablets, and mobile devices.
 - Easily search for books by title, author, genre, or keywords. Discover curated collections and recommendations based on your interests.
 
+### Installation
 
-## 🚀Getting Started
+1. **Clone this repository:**
 
-### 1.Clone this repository:
+   ```bash
+   git clone https://github.com/Suchitra-Sahoo/bookStore.git
+   ```
 
-    ```bash
-    git clone https://github.com/Suchitra-Sahoo/bookStore.git
-    ```
+2. **Install Frontend dependencies:**
 
-### 2.Install Frontend dependencies:
-
-    ```bash
+     ```bash
     cd Frontend
     npm install
     ```
+    
+3. **Install Backend dependencies:**
 
-### 3.Install Backend dependencies:
-
-    ```bash
+   ```bash
     cd Backend
     npm install
     ```
 
-### 4.Running the Frontend:
+4. **Running the Frontend:**
 
-     ```bash
+    ```bash
     cd Frontend
     npm run dev
     ```
-   
-### 5.Running the Backend:
+
+5. **Running the Backend:**
 
     ```bash
     cd Backend
     npm start
     ```
 
-After completing these steps, you should have the bookStore website up and running on your local machine. 🎉
-
+After completing these steps, you should have the Drawn2Shoe application up and running on your local machine. 🎉
 
 ### Show some ❤️ by starring this awesome repository!
 
