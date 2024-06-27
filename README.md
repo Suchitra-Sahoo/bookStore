@@ -29,7 +29,8 @@
 </div>
 
 ## ✨Features
--Access a wide range of books for free, covering various genres and topics. Enjoy unlimited reading without any subscription fees.
+
+- Access a wide range of books for free, covering various genres and topics. Enjoy unlimited reading without any subscription fees.
 - Browse and purchase books directly from the bookStore platform. Explore new releases, bestsellers, and niche genres available for purchase.
 - Securely sign in to your account to personalize your reading and shopping experience. Manage your profile, preferences, and purchased books.
 - Provide feedback on books you've read to help other users make informed decisions. Rate and review books to share your thoughts and recommendations.
