@@ -76,7 +76,7 @@
     npm start
     ```
 
-After completing these steps, you should have the Drawn2Shoe application up and running on your local machine. 🎉
+After completing these steps, you should have the bookStore up and running on your local machine. 🎉
 
 ### Show some ❤️ by starring this awesome repository!
 
