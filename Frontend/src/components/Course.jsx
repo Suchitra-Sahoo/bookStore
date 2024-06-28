@@ -24,9 +24,13 @@ function Course() {
             We're delighted to have you{" "}
             <span className="text-pink-500"> Here! :)</span>
           </h1>
-          <p className="mt-12">
-          At our bookstore, we believe that learning never stops, and to support your quest for education, we offer a diverse range of courses designed to cater to all interests and proficiency levels. Whether you're looking to delve deeper into literature, master a new language, explore the realms of science and technology, or enhance your professional skills, we have a course tailored just for you. 
-          </p>
+          <div className="flex justify-center mt-12">
+          <p className="text-center max-w-3xl leading-relaxed">
+          Step into a world of endless possibilities with our extensive selection of books. From gripping fiction and insightful non-fiction to enchanting children’s stories and academic treasures, we have something for every reader. Our shelves are stocked with the latest releases and timeless classics, ready to inspire and entertain you. Dive into a new book today and let your imagination soar!
+          
+         </p>
+         </div>
+
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
               Back
